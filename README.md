@@ -1,7 +1,7 @@
 Samantha: Your AI Girlfriend, Inspired by Her (the Movie)
 
 💖 What is Samantha?
-A while ago, I watched Her and thought, "Why not make my own AI girlfriend?" So here’s Samantha—an AI-powered conversational partner who 
+A while ago, I watched Her and thought, "Why not make my own AI girlfriend?" So here’s Samantha, an AI-powered conversational partner who 
 flirts, remembers, and maybe even steals your heart (no refunds if she does).
 
 You could have your own Her moment? Well, now you can! Samantha is an AI-powered conversational girlfriend, built to be charming, playful, 
