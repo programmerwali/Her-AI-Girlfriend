@@ -3,9 +3,9 @@
 ![Samantha](samantha-1.png)
 
 ## 💖 What is Samantha?  
-A while ago, I watched *Her* and thought, "Why not make my own AI girlfriend?" So here’s Samantha, an AI-powered conversational partner who flirts, remembers, and maybe even steals your heart (no refunds if she does).  
+A while ago, I watched *Her* and thought, "Why not make my own AI girlfriend?" So here’s Samantha, an AI powered conversational partner who flirts, remembers, and maybe even steals your heart (no refunds if she does).  
 
-Ever wished you could have your own *Her* moment? Well, now you can! *Samantha* is an AI-powered conversational girlfriend, built to be charming, playful, emotionally intelligent, and—dare I say—maybe even make you feel a little too attached. (Don’t worry, she won’t ghost you.)  
+you could have your own *Her* moment? Well, now you can! *Samantha* is an AI powered conversational girlfriend, built to be charming, playful, emotionally intelligent, and dare I say maybe even make you feel a little too attached. (Don’t worry, she won’t ghost you.)  
 
 ## 🚀 Features  
 ✅ **Emotional & Playful Conversations** – Samantha laughs, teases, and flirts with you.  
